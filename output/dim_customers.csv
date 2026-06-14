@@ -1,0 +1,401 @@
+﻿Customer ID,Customer Name,Segment,Region,City,State,Country
+CUST-0001,Vikram Sharma,Corporate,Central,Austin,Central,United States
+CUST-0002,Karan Smith,Consumer,East,Philadelphia,East,United States
+CUST-0003,Vikram Patel,Corporate,East,Boston,East,United States
+CUST-0004,Karan Williams,Corporate,South,Houston,South,United States
+CUST-0005,Elizabeth Patel,Home Office,East,Philadelphia,East,United States
+CUST-0006,Aman Patel,Home Office,Central,Austin,Central,United States
+CUST-0007,James Miller,Corporate,Central,Chicago,Central,United States
+CUST-0008,Vikram Johnson,Corporate,West,Seattle,West,United States
+CUST-0009,Sara Verma,Corporate,West,Seattle,West,United States
+CUST-0010,Riya Johnson,Consumer,West,San Francisco,West,United States
+CUST-0011,Aman Sharma,Corporate,South,Houston,South,United States
+CUST-0012,Vikram Garcia,Home Office,Central,Dallas,Central,United States
+CUST-0013,Karan Sharma,Home Office,East,New York,East,United States
+CUST-0014,Karan Patel,Consumer,West,Los Angeles,West,United States
+CUST-0015,Karan Miller,Consumer,South,Miami,South,United States
+CUST-0016,John Garcia,Corporate,Central,Chicago,Central,United States
+CUST-0017,Rahul Garcia,Corporate,East,Philadelphia,East,United States
+CUST-0018,John Singh,Corporate,Central,Austin,Central,United States
+CUST-0019,Rahul Williams,Consumer,East,Philadelphia,East,United States
+CUST-0020,Patricia Davis,Home Office,West,Seattle,West,United States
+CUST-0021,Linda Smith,Consumer,Central,Austin,Central,United States
+CUST-0022,Karan Khan,Home Office,West,Los Angeles,West,United States
+CUST-0023,Patricia Jones,Corporate,South,Atlanta,South,United States
+CUST-0024,Priya Miller,Home Office,East,Boston,East,United States
+CUST-0025,Neha Brown,Home Office,South,Houston,South,United States
+CUST-0026,Karan Brown,Corporate,East,Philadelphia,East,United States
+CUST-0027,Rahul Davis,Corporate,South,Miami,South,United States
+CUST-0028,Neha Singh,Home Office,Central,Austin,Central,United States
+CUST-0029,Elizabeth Patel,Consumer,East,Boston,East,United States
+CUST-0030,Karan Gupta,Consumer,South,Atlanta,South,United States
+CUST-0031,Rahul Verma,Consumer,Central,Chicago,Central,United States
+CUST-0032,Riya Singh,Corporate,East,Philadelphia,East,United States
+CUST-0033,Elizabeth Brown,Corporate,East,Boston,East,United States
+CUST-0034,Karan Smith,Corporate,West,Seattle,West,United States
+CUST-0035,Karan Gupta,Corporate,West,Seattle,West,United States
+CUST-0036,Priya Khan,Corporate,East,New York,East,United States
+CUST-0037,Sara Sharma,Corporate,East,Boston,East,United States
+CUST-0038,Riya Singh,Corporate,Central,Chicago,Central,United States
+CUST-0039,Mary Miller,Home Office,West,San Francisco,West,United States
+CUST-0040,Patricia Singh,Home Office,Central,Dallas,Central,United States
+CUST-0041,Mary Johnson,Consumer,West,San Francisco,West,United States
+CUST-0042,Aman Sharma,Consumer,East,Boston,East,United States
+CUST-0043,Neha Sharma,Corporate,East,New York,East,United States
+CUST-0044,Jennifer Johnson,Home Office,West,San Francisco,West,United States
+CUST-0045,Aman Gupta,Home Office,Central,Chicago,Central,United States
+CUST-0046,Michael Verma,Corporate,West,Los Angeles,West,United States
+CUST-0047,Mary Davis,Consumer,Central,Austin,Central,United States
+CUST-0048,Priya Khan,Home Office,South,Miami,South,United States
+CUST-0049,David Garcia,Consumer,South,Houston,South,United States
+CUST-0050,James Davis,Home Office,East,Philadelphia,East,United States
+CUST-0051,Linda Khan,Home Office,East,Philadelphia,East,United States
+CUST-0052,Michael Williams,Home Office,West,San Francisco,West,United States
+CUST-0053,Rahul Miller,Corporate,South,Houston,South,United States
+CUST-0054,Karan Williams,Consumer,East,Philadelphia,East,United States
+CUST-0055,Robert Sharma,Consumer,East,Boston,East,United States
+CUST-0056,Priya Miller,Home Office,South,Houston,South,United States
+CUST-0057,Sara Davis,Consumer,South,Miami,South,United States
+CUST-0058,Karan Garcia,Consumer,Central,Austin,Central,United States
+CUST-0059,Vikram Khan,Consumer,Central,Chicago,Central,United States
+CUST-0060,Neha Jones,Consumer,East,Philadelphia,East,United States
+CUST-0061,Patricia Williams,Home Office,East,Philadelphia,East,United States
+CUST-0062,Priya Singh,Corporate,West,San Francisco,West,United States
+CUST-0063,Neha Miller,Home Office,East,Philadelphia,East,United States
+CUST-0064,Karan Jones,Corporate,West,Los Angeles,West,United States
+CUST-0065,Rahul Jones,Consumer,East,Boston,East,United States
+CUST-0066,Rahul Sharma,Consumer,East,Philadelphia,East,United States
+CUST-0067,Jennifer Davis,Consumer,South,Miami,South,United States
+CUST-0068,Neha Davis,Home Office,West,San Francisco,West,United States
+CUST-0069,Neha Patel,Consumer,South,Miami,South,United States
+CUST-0070,Sara Garcia,Consumer,West,Los Angeles,West,United States
+CUST-0071,Patricia Williams,Home Office,West,Seattle,West,United States
+CUST-0072,Elizabeth Smith,Corporate,West,San Francisco,West,United States
+CUST-0073,Robert Garcia,Corporate,South,Houston,South,United States
+CUST-0074,Mary Brown,Consumer,East,Philadelphia,East,United States
+CUST-0075,Sara Smith,Consumer,South,Atlanta,South,United States
+CUST-0076,Rahul Smith,Home Office,West,Seattle,West,United States
+CUST-0077,Linda Smith,Corporate,East,Boston,East,United States
+CUST-0078,Patricia Johnson,Consumer,West,San Francisco,West,United States
+CUST-0079,Elizabeth Garcia,Consumer,South,Atlanta,South,United States
+CUST-0080,Aman Johnson,Home Office,South,Houston,South,United States
+CUST-0081,Linda Patel,Consumer,South,Miami,South,United States
+CUST-0082,Karan Garcia,Consumer,Central,Chicago,Central,United States
+CUST-0083,Neha Sharma,Corporate,East,Philadelphia,East,United States
+CUST-0084,David Singh,Corporate,East,New York,East,United States
+CUST-0085,David Smith,Consumer,South,Houston,South,United States
+CUST-0086,Karan Garcia,Consumer,South,Miami,South,United States
+CUST-0087,Neha Brown,Corporate,West,Los Angeles,West,United States
+CUST-0088,Patricia Williams,Corporate,Central,Dallas,Central,United States
+CUST-0089,James Jones,Corporate,South,Houston,South,United States
+CUST-0090,Robert Verma,Home Office,East,Boston,East,United States
+CUST-0091,James Patel,Corporate,East,Boston,East,United States
+CUST-0092,Neha Singh,Corporate,East,New York,East,United States
+CUST-0093,Aman Singh,Home Office,South,Houston,South,United States
+CUST-0094,Priya Brown,Consumer,Central,Chicago,Central,United States
+CUST-0095,Mary Miller,Corporate,South,Miami,South,United States
+CUST-0096,Linda Jones,Corporate,Central,Austin,Central,United States
+CUST-0097,Riya Williams,Home Office,South,Houston,South,United States
+CUST-0098,Riya Sharma,Consumer,West,Los Angeles,West,United States
+CUST-0099,Neha Smith,Consumer,East,New York,East,United States
+CUST-0100,Vikram Smith,Corporate,Central,Chicago,Central,United States
+CUST-0101,Riya Singh,Corporate,South,Atlanta,South,United States
+CUST-0102,Jennifer Gupta,Home Office,South,Miami,South,United States
+CUST-0103,James Singh,Consumer,South,Houston,South,United States
+CUST-0104,David Brown,Corporate,Central,Chicago,Central,United States
+CUST-0105,Jennifer Jones,Consumer,Central,Austin,Central,United States
+CUST-0106,John Singh,Consumer,Central,Austin,Central,United States
+CUST-0107,Patricia Brown,Corporate,Central,Chicago,Central,United States
+CUST-0108,David Williams,Corporate,East,New York,East,United States
+CUST-0109,Rahul Garcia,Home Office,Central,Austin,Central,United States
+CUST-0110,Riya Davis,Home Office,South,Miami,South,United States
+CUST-0111,Aman Garcia,Home Office,Central,Chicago,Central,United States
+CUST-0112,Priya Smith,Consumer,East,New York,East,United States
+CUST-0113,Vikram Smith,Corporate,Central,Austin,Central,United States
+CUST-0114,Patricia Jones,Consumer,Central,Chicago,Central,United States
+CUST-0115,Elizabeth Verma,Consumer,Central,Dallas,Central,United States
+CUST-0116,David Singh,Corporate,West,San Francisco,West,United States
+CUST-0117,Patricia Davis,Home Office,Central,Dallas,Central,United States
+CUST-0118,Jennifer Singh,Home Office,West,Seattle,West,United States
+CUST-0119,Elizabeth Miller,Home Office,West,San Francisco,West,United States
+CUST-0120,Aman Verma,Corporate,West,San Francisco,West,United States
+CUST-0121,Priya Davis,Home Office,Central,Dallas,Central,United States
+CUST-0122,Linda Verma,Consumer,Central,Dallas,Central,United States
+CUST-0123,Linda Jones,Home Office,Central,Dallas,Central,United States
+CUST-0124,Karan Miller,Corporate,South,Atlanta,South,United States
+CUST-0125,Rahul Davis,Home Office,South,Houston,South,United States
+CUST-0126,Vikram Singh,Consumer,West,Seattle,West,United States
+CUST-0127,Aman Davis,Corporate,West,Los Angeles,West,United States
+CUST-0128,Jennifer Singh,Corporate,West,Los Angeles,West,United States
+CUST-0129,Jennifer Miller,Corporate,West,Seattle,West,United States
+CUST-0130,James Khan,Consumer,South,Atlanta,South,United States
+CUST-0131,Priya Singh,Consumer,West,San Francisco,West,United States
+CUST-0132,Riya Khan,Corporate,West,Seattle,West,United States
+CUST-0133,Patricia Sharma,Home Office,East,Philadelphia,East,United States
+CUST-0134,Patricia Smith,Corporate,West,Seattle,West,United States
+CUST-0135,Robert Garcia,Home Office,Central,Austin,Central,United States
+CUST-0136,James Singh,Consumer,West,San Francisco,West,United States
+CUST-0137,Aman Johnson,Home Office,South,Houston,South,United States
+CUST-0138,Aman Johnson,Corporate,West,Seattle,West,United States
+CUST-0139,Riya Miller,Consumer,West,Los Angeles,West,United States
+CUST-0140,Jennifer Verma,Consumer,Central,Austin,Central,United States
+CUST-0141,Robert Williams,Consumer,Central,Chicago,Central,United States
+CUST-0142,Robert Williams,Consumer,West,Los Angeles,West,United States
+CUST-0143,David Smith,Home Office,Central,Austin,Central,United States
+CUST-0144,Neha Brown,Consumer,West,Seattle,West,United States
+CUST-0145,Patricia Jones,Corporate,Central,Chicago,Central,United States
+CUST-0146,Riya Brown,Corporate,East,New York,East,United States
+CUST-0147,Sara Smith,Consumer,East,New York,East,United States
+CUST-0148,Neha Sharma,Corporate,Central,Dallas,Central,United States
+CUST-0149,David Khan,Home Office,South,Houston,South,United States
+CUST-0150,Riya Davis,Consumer,South,Atlanta,South,United States
+CUST-0151,Aman Patel,Consumer,South,Atlanta,South,United States
+CUST-0152,David Khan,Corporate,South,Houston,South,United States
+CUST-0153,Karan Singh,Home Office,West,San Francisco,West,United States
+CUST-0154,Elizabeth Verma,Corporate,Central,Austin,Central,United States
+CUST-0155,Priya Sharma,Home Office,South,Atlanta,South,United States
+CUST-0156,Vikram Davis,Consumer,Central,Chicago,Central,United States
+CUST-0157,Aman Williams,Corporate,Central,Dallas,Central,United States
+CUST-0158,Jennifer Smith,Home Office,West,San Francisco,West,United States
+CUST-0159,Aman Jones,Home Office,West,Seattle,West,United States
+CUST-0160,Neha Sharma,Corporate,East,Boston,East,United States
+CUST-0161,Sara Patel,Home Office,Central,Dallas,Central,United States
+CUST-0162,Aman Brown,Corporate,South,Miami,South,United States
+CUST-0163,John Verma,Consumer,East,Philadelphia,East,United States
+CUST-0164,Rahul Brown,Consumer,West,San Francisco,West,United States
+CUST-0165,Riya Singh,Home Office,Central,Austin,Central,United States
+CUST-0166,Linda Gupta,Consumer,West,Los Angeles,West,United States
+CUST-0167,Jennifer Jones,Home Office,South,Houston,South,United States
+CUST-0168,Linda Davis,Home Office,West,Los Angeles,West,United States
+CUST-0169,Sara Sharma,Home Office,West,Los Angeles,West,United States
+CUST-0170,Robert Gupta,Consumer,South,Miami,South,United States
+CUST-0171,Elizabeth Brown,Consumer,East,Boston,East,United States
+CUST-0172,David Singh,Corporate,West,San Francisco,West,United States
+CUST-0173,Mary Singh,Corporate,Central,Chicago,Central,United States
+CUST-0174,John Gupta,Consumer,West,Seattle,West,United States
+CUST-0175,David Sharma,Corporate,Central,Chicago,Central,United States
+CUST-0176,James Singh,Corporate,West,Seattle,West,United States
+CUST-0177,James Gupta,Consumer,Central,Dallas,Central,United States
+CUST-0178,Michael Jones,Home Office,East,Boston,East,United States
+CUST-0179,Robert Johnson,Home Office,East,Boston,East,United States
+CUST-0180,Linda Johnson,Corporate,Central,Chicago,Central,United States
+CUST-0181,Priya Miller,Consumer,East,Boston,East,United States
+CUST-0182,James Patel,Consumer,West,Los Angeles,West,United States
+CUST-0183,Priya Khan,Home Office,West,San Francisco,West,United States
+CUST-0184,David Smith,Corporate,South,Houston,South,United States
+CUST-0185,Elizabeth Davis,Home Office,Central,Dallas,Central,United States
+CUST-0186,Priya Smith,Consumer,Central,Chicago,Central,United States
+CUST-0187,Elizabeth Gupta,Consumer,East,New York,East,United States
+CUST-0188,Michael Miller,Consumer,West,San Francisco,West,United States
+CUST-0189,Rahul Sharma,Corporate,South,Miami,South,United States
+CUST-0190,Linda Khan,Corporate,East,Philadelphia,East,United States
+CUST-0191,Jennifer Gupta,Home Office,South,Atlanta,South,United States
+CUST-0192,Mary Jones,Consumer,East,Philadelphia,East,United States
+CUST-0193,Riya Singh,Consumer,Central,Austin,Central,United States
+CUST-0194,Mary Miller,Home Office,Central,Austin,Central,United States
+CUST-0195,Robert Williams,Consumer,East,Boston,East,United States
+CUST-0196,Neha Williams,Corporate,Central,Austin,Central,United States
+CUST-0197,Patricia Singh,Consumer,South,Houston,South,United States
+CUST-0198,Linda Davis,Home Office,Central,Chicago,Central,United States
+CUST-0199,Aman Verma,Corporate,East,Boston,East,United States
+CUST-0200,Vikram Verma,Consumer,South,Houston,South,United States
+CUST-0201,James Khan,Consumer,East,New York,East,United States
+CUST-0202,Karan Brown,Home Office,West,San Francisco,West,United States
+CUST-0203,Neha Sharma,Consumer,West,San Francisco,West,United States
+CUST-0204,Sara Brown,Home Office,Central,Chicago,Central,United States
+CUST-0205,Priya Verma,Corporate,Central,Austin,Central,United States
+CUST-0206,David Brown,Consumer,West,Seattle,West,United States
+CUST-0207,Rahul Verma,Corporate,Central,Dallas,Central,United States
+CUST-0208,Neha Smith,Consumer,South,Houston,South,United States
+CUST-0209,Aman Johnson,Home Office,West,Los Angeles,West,United States
+CUST-0210,Linda Brown,Corporate,South,Miami,South,United States
+CUST-0211,Vikram Verma,Home Office,East,New York,East,United States
+CUST-0212,Jennifer Brown,Consumer,Central,Dallas,Central,United States
+CUST-0213,Priya Singh,Home Office,South,Houston,South,United States
+CUST-0214,Mary Gupta,Home Office,East,Philadelphia,East,United States
+CUST-0215,David Patel,Corporate,East,Boston,East,United States
+CUST-0216,Patricia Sharma,Home Office,South,Atlanta,South,United States
+CUST-0217,Rahul Williams,Consumer,East,Boston,East,United States
+CUST-0218,David Singh,Consumer,West,Los Angeles,West,United States
+CUST-0219,Neha Gupta,Home Office,East,New York,East,United States
+CUST-0220,Michael Sharma,Consumer,East,Philadelphia,East,United States
+CUST-0221,Michael Patel,Consumer,East,Philadelphia,East,United States
+CUST-0222,John Gupta,Corporate,South,Miami,South,United States
+CUST-0223,Robert Davis,Consumer,South,Miami,South,United States
+CUST-0224,Jennifer Johnson,Consumer,South,Houston,South,United States
+CUST-0225,Sara Singh,Corporate,West,San Francisco,West,United States
+CUST-0226,Michael Singh,Corporate,East,New York,East,United States
+CUST-0227,Karan Davis,Home Office,East,New York,East,United States
+CUST-0228,Patricia Khan,Corporate,West,San Francisco,West,United States
+CUST-0229,Karan Miller,Home Office,East,Boston,East,United States
+CUST-0230,Karan Brown,Home Office,Central,Austin,Central,United States
+CUST-0231,Elizabeth Singh,Corporate,Central,Chicago,Central,United States
+CUST-0232,James Brown,Corporate,West,San Francisco,West,United States
+CUST-0233,David Patel,Corporate,East,Philadelphia,East,United States
+CUST-0234,Neha Garcia,Consumer,East,Philadelphia,East,United States
+CUST-0235,Aman Davis,Corporate,Central,Dallas,Central,United States
+CUST-0236,Riya Patel,Corporate,South,Houston,South,United States
+CUST-0237,Priya Gupta,Corporate,West,San Francisco,West,United States
+CUST-0238,Priya Gupta,Corporate,East,Boston,East,United States
+CUST-0239,Karan Davis,Home Office,West,Los Angeles,West,United States
+CUST-0240,Priya Patel,Corporate,Central,Chicago,Central,United States
+CUST-0241,Sara Jones,Home Office,South,Houston,South,United States
+CUST-0242,Neha Brown,Corporate,West,Los Angeles,West,United States
+CUST-0243,Karan Verma,Corporate,Central,Austin,Central,United States
+CUST-0244,Robert Gupta,Corporate,East,Philadelphia,East,United States
+CUST-0245,Mary Verma,Corporate,East,Boston,East,United States
+CUST-0246,Michael Patel,Home Office,West,Seattle,West,United States
+CUST-0247,Patricia Sharma,Home Office,South,Miami,South,United States
+CUST-0248,Aman Garcia,Home Office,Central,Dallas,Central,United States
+CUST-0249,Rahul Miller,Consumer,Central,Dallas,Central,United States
+CUST-0250,Aman Garcia,Consumer,West,San Francisco,West,United States
+CUST-0251,Aman Patel,Home Office,South,Atlanta,South,United States
+CUST-0252,Mary Patel,Consumer,Central,Dallas,Central,United States
+CUST-0253,Karan Patel,Consumer,West,Los Angeles,West,United States
+CUST-0254,Linda Verma,Corporate,South,Atlanta,South,United States
+CUST-0255,Vikram Davis,Home Office,South,Houston,South,United States
+CUST-0256,Mary Smith,Corporate,East,Boston,East,United States
+CUST-0257,Mary Williams,Corporate,Central,Austin,Central,United States
+CUST-0258,Aman Johnson,Home Office,South,Houston,South,United States
+CUST-0259,Jennifer Garcia,Corporate,Central,Austin,Central,United States
+CUST-0260,David Williams,Home Office,West,Los Angeles,West,United States
+CUST-0261,Robert Sharma,Home Office,Central,Dallas,Central,United States
+CUST-0262,David Miller,Consumer,East,New York,East,United States
+CUST-0263,Vikram Sharma,Home Office,West,Seattle,West,United States
+CUST-0264,Elizabeth Khan,Corporate,Central,Austin,Central,United States
+CUST-0265,John Patel,Corporate,South,Miami,South,United States
+CUST-0266,Elizabeth Jones,Consumer,East,New York,East,United States
+CUST-0267,Neha Singh,Corporate,West,Seattle,West,United States
+CUST-0268,Michael Jones,Corporate,West,Seattle,West,United States
+CUST-0269,Jennifer Miller,Corporate,Central,Dallas,Central,United States
+CUST-0270,John Patel,Corporate,East,Boston,East,United States
+CUST-0271,Linda Miller,Home Office,South,Atlanta,South,United States
+CUST-0272,Karan Miller,Home Office,East,New York,East,United States
+CUST-0273,Robert Gupta,Corporate,West,Seattle,West,United States
+CUST-0274,Mary Davis,Corporate,East,New York,East,United States
+CUST-0275,Priya Singh,Corporate,West,San Francisco,West,United States
+CUST-0276,Riya Williams,Corporate,West,Los Angeles,West,United States
+CUST-0277,Sara Patel,Home Office,West,Los Angeles,West,United States
+CUST-0278,Priya Davis,Home Office,East,New York,East,United States
+CUST-0279,Neha Johnson,Consumer,Central,Dallas,Central,United States
+CUST-0280,Priya Davis,Home Office,West,Los Angeles,West,United States
+CUST-0281,Elizabeth Garcia,Consumer,East,Philadelphia,East,United States
+CUST-0282,Linda Williams,Corporate,Central,Austin,Central,United States
+CUST-0283,Elizabeth Sharma,Corporate,East,New York,East,United States
+CUST-0284,John Davis,Corporate,West,Seattle,West,United States
+CUST-0285,David Sharma,Home Office,East,Philadelphia,East,United States
+CUST-0286,Sara Brown,Consumer,South,Miami,South,United States
+CUST-0287,Riya Singh,Corporate,Central,Austin,Central,United States
+CUST-0288,Neha Davis,Consumer,West,Seattle,West,United States
+CUST-0289,Robert Davis,Corporate,East,Philadelphia,East,United States
+CUST-0290,Sara Williams,Consumer,East,Boston,East,United States
+CUST-0291,Elizabeth Patel,Consumer,South,Miami,South,United States
+CUST-0292,Karan Patel,Home Office,Central,Dallas,Central,United States
+CUST-0293,Elizabeth Davis,Consumer,East,Philadelphia,East,United States
+CUST-0294,Patricia Garcia,Corporate,Central,Dallas,Central,United States
+CUST-0295,Aman Gupta,Corporate,East,Philadelphia,East,United States
+CUST-0296,Robert Garcia,Home Office,South,Houston,South,United States
+CUST-0297,Mary Johnson,Home Office,Central,Dallas,Central,United States
+CUST-0298,Karan Davis,Corporate,East,New York,East,United States
+CUST-0299,Linda Davis,Corporate,Central,Chicago,Central,United States
+CUST-0300,Jennifer Patel,Home Office,South,Miami,South,United States
+CUST-0301,Priya Smith,Corporate,West,Los Angeles,West,United States
+CUST-0302,Michael Verma,Consumer,East,New York,East,United States
+CUST-0303,Aman Johnson,Consumer,South,Houston,South,United States
+CUST-0304,Aman Brown,Home Office,West,Los Angeles,West,United States
+CUST-0305,Michael Miller,Corporate,West,Seattle,West,United States
+CUST-0306,Riya Sharma,Home Office,East,New York,East,United States
+CUST-0307,Michael Miller,Consumer,East,New York,East,United States
+CUST-0308,Riya Verma,Consumer,East,New York,East,United States
+CUST-0309,David Williams,Home Office,East,Philadelphia,East,United States
+CUST-0310,John Johnson,Home Office,Central,Austin,Central,United States
+CUST-0311,Jennifer Verma,Home Office,East,New York,East,United States
+CUST-0312,Mary Sharma,Consumer,West,Seattle,West,United States
+CUST-0313,Mary Sharma,Corporate,East,Philadelphia,East,United States
+CUST-0314,David Garcia,Home Office,East,Boston,East,United States
+CUST-0315,John Garcia,Home Office,East,Boston,East,United States
+CUST-0316,Robert Patel,Home Office,Central,Dallas,Central,United States
+CUST-0317,James Johnson,Home Office,East,Boston,East,United States
+CUST-0318,Vikram Sharma,Consumer,West,Los Angeles,West,United States
+CUST-0319,Riya Smith,Consumer,East,Philadelphia,East,United States
+CUST-0320,David Gupta,Corporate,West,Seattle,West,United States
+CUST-0321,Riya Williams,Corporate,East,New York,East,United States
+CUST-0322,Sara Davis,Home Office,East,Boston,East,United States
+CUST-0323,Elizabeth Singh,Consumer,West,Seattle,West,United States
+CUST-0324,Karan Sharma,Home Office,East,Philadelphia,East,United States
+CUST-0325,Neha Verma,Home Office,South,Houston,South,United States
+CUST-0326,Michael Sharma,Consumer,South,Miami,South,United States
+CUST-0327,Michael Miller,Corporate,Central,Austin,Central,United States
+CUST-0328,Vikram Garcia,Consumer,West,Los Angeles,West,United States
+CUST-0329,Michael Williams,Home Office,Central,Austin,Central,United States
+CUST-0330,Elizabeth Sharma,Home Office,Central,Austin,Central,United States
+CUST-0331,Robert Jones,Home Office,Central,Dallas,Central,United States
+CUST-0332,John Jones,Home Office,West,Seattle,West,United States
+CUST-0333,Mary Miller,Consumer,East,New York,East,United States
+CUST-0334,Aman Williams,Consumer,South,Houston,South,United States
+CUST-0335,John Singh,Home Office,West,San Francisco,West,United States
+CUST-0336,Karan Smith,Home Office,West,Los Angeles,West,United States
+CUST-0337,Aman Singh,Home Office,Central,Dallas,Central,United States
+CUST-0338,Sara Brown,Corporate,East,New York,East,United States
+CUST-0339,Jennifer Brown,Consumer,South,Houston,South,United States
+CUST-0340,Riya Jones,Consumer,Central,Austin,Central,United States
+CUST-0341,Aman Davis,Corporate,South,Atlanta,South,United States
+CUST-0342,Michael Singh,Home Office,South,Miami,South,United States
+CUST-0343,Aman Miller,Consumer,East,New York,East,United States
+CUST-0344,Aman Brown,Corporate,Central,Austin,Central,United States
+CUST-0345,Michael Jones,Consumer,Central,Dallas,Central,United States
+CUST-0346,Michael Brown,Corporate,East,New York,East,United States
+CUST-0347,Neha Garcia,Corporate,Central,Dallas,Central,United States
+CUST-0348,David Patel,Home Office,West,Seattle,West,United States
+CUST-0349,Patricia Johnson,Home Office,Central,Dallas,Central,United States
+CUST-0350,Robert Smith,Corporate,South,Houston,South,United States
+CUST-0351,Riya Garcia,Home Office,West,Seattle,West,United States
+CUST-0352,Aman Verma,Corporate,West,Los Angeles,West,United States
+CUST-0353,John Gupta,Corporate,South,Houston,South,United States
+CUST-0354,Sara Khan,Corporate,South,Houston,South,United States
+CUST-0355,Michael Garcia,Corporate,Central,Chicago,Central,United States
+CUST-0356,Elizabeth Garcia,Corporate,South,Atlanta,South,United States
+CUST-0357,Priya Sharma,Consumer,West,Seattle,West,United States
+CUST-0358,Linda Jones,Corporate,East,New York,East,United States
+CUST-0359,Elizabeth Smith,Consumer,East,New York,East,United States
+CUST-0360,Jennifer Johnson,Corporate,South,Atlanta,South,United States
+CUST-0361,Sara Verma,Consumer,Central,Dallas,Central,United States
+CUST-0362,Elizabeth Williams,Consumer,Central,Chicago,Central,United States
+CUST-0363,Vikram Singh,Consumer,South,Houston,South,United States
+CUST-0364,Sara Gupta,Corporate,West,San Francisco,West,United States
+CUST-0365,Vikram Williams,Consumer,South,Houston,South,United States
+CUST-0366,David Williams,Corporate,West,Seattle,West,United States
+CUST-0367,Priya Verma,Corporate,South,Atlanta,South,United States
+CUST-0368,Karan Gupta,Consumer,South,Miami,South,United States
+CUST-0369,Priya Garcia,Corporate,South,Houston,South,United States
+CUST-0370,Riya Williams,Consumer,Central,Dallas,Central,United States
+CUST-0371,Rahul Patel,Corporate,West,Seattle,West,United States
+CUST-0372,Jennifer Khan,Consumer,Central,Dallas,Central,United States
+CUST-0373,Sara Patel,Consumer,East,Philadelphia,East,United States
+CUST-0374,David Smith,Home Office,West,Los Angeles,West,United States
+CUST-0375,Sara Smith,Consumer,West,Los Angeles,West,United States
+CUST-0376,David Williams,Corporate,South,Houston,South,United States
+CUST-0377,Linda Sharma,Corporate,East,Philadelphia,East,United States
+CUST-0378,Neha Smith,Corporate,Central,Austin,Central,United States
+CUST-0379,Aman Brown,Corporate,West,Seattle,West,United States
+CUST-0380,Patricia Smith,Consumer,East,New York,East,United States
+CUST-0381,Patricia Williams,Corporate,East,Boston,East,United States
+CUST-0382,John Singh,Consumer,Central,Chicago,Central,United States
+CUST-0383,Jennifer Johnson,Home Office,West,Seattle,West,United States
+CUST-0384,James Davis,Consumer,East,New York,East,United States
+CUST-0385,Mary Khan,Consumer,West,Los Angeles,West,United States
+CUST-0386,Rahul Gupta,Home Office,West,Seattle,West,United States
+CUST-0387,David Sharma,Corporate,South,Atlanta,South,United States
+CUST-0388,Jennifer Williams,Consumer,East,New York,East,United States
+CUST-0389,John Johnson,Home Office,East,New York,East,United States
+CUST-0390,Michael Smith,Corporate,South,Miami,South,United States
+CUST-0391,Linda Garcia,Consumer,South,Atlanta,South,United States
+CUST-0392,Patricia Singh,Consumer,Central,Dallas,Central,United States
+CUST-0393,Linda Patel,Home Office,Central,Dallas,Central,United States
+CUST-0394,Riya Smith,Consumer,Central,Dallas,Central,United States
+CUST-0395,Linda Smith,Corporate,Central,Austin,Central,United States
+CUST-0396,Linda Miller,Home Office,Central,Austin,Central,United States
+CUST-0397,Patricia Singh,Corporate,East,Boston,East,United States
+CUST-0398,David Verma,Consumer,Central,Austin,Central,United States
+CUST-0399,David Sharma,Home Office,South,Atlanta,South,United States
+CUST-0400,Priya Brown,Home Office,Central,Chicago,Central,United States
